@@ -1,2 +1,3 @@
-age=25 
-print('my age is ',age)
+import streamlit as st
+
+st.title("welcome to my new App")
